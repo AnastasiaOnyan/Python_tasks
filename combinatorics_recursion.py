@@ -1,3 +1,5 @@
+#calculate unique combinations (1, 2 == 2, 1) where n is an amount of all elements which are given and k - the amount of elements in each combination
+
 first = int(input("Enter a number: "))
 second = int(input("Enter a number: "))
 

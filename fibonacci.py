@@ -7,3 +7,7 @@ def fibonacci_summ(n):
 
 
 print(fibonacci_summ(num))
+
+print(locals()) #shows name of vars and its meanings, dict  
+
+
